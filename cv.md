@@ -1,62 +1,31 @@
 ---
-layout: resume
+layout: Resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Student at University of Central Florida
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`Aug 2021 - Present`
+__University of Central Florida__
 Degree Awarded
 
-`1995 - 1997`
-__University Name__
+`July 2015 - July 2019`
+__Acharya Institute of Technology__
 Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Data Science Engineer__, Aindra Labs Pvt Ltd 
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Embedded Software Developer__, Sigsenz Technologies Pvt Ltd 
 
 - Task
 - Task
@@ -65,6 +34,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2021 -->
 
 
