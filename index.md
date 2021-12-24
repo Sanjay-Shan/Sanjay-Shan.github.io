@@ -6,7 +6,7 @@ excerpt: "About Me..."
 I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
 Graduate Student at University of Central florida pursuing Masters in Computer Science with special interest in Computer Vision and Machine Learning.
 
-## Current Interests and Projects:
+## Projects ,Internships and Certifications:
 
 - Old Dominion University Internship program | Acharya Institute of Technology	2018
 - Driver Drowsiness Detection | Acharya Institute of Technology 	2019
