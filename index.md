@@ -16,5 +16,5 @@ Graduate Student at University of Central florida pursuing Masters in Computer S
 - Introduction to Containers w/ Docker, Kubernetes, OpenShift | Coursera	                              2020
 - Ebay 2021 University Machine Learning Competition | working with a team of 4 | Due date 01/07/2022 	  2021
 - Working on Video Segmentation for autonomous driving | University of Central Florida	                2021
-- Working on Autonomous driving project (RTIS research lab)                                             2021
+- Working on Autonomous driving project (RTIS research lab) | University of Central Florida             2021
 
