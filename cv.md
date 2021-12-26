@@ -1,5 +1,5 @@
 ---
-layout: Resume
+layout: resume
 ---
 ## Currently
 
