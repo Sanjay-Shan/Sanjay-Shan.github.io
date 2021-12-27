@@ -1,36 +1,16 @@
 ---
-layout: resume
+layout: page
+title: CV
+excerpt: "Recent Workshops"
 ---
-## Currently
-
-Graduate Student at University of Central Florida
-
-## Education
-
-`Aug 2021 - Present`
-__University of Central Florida__
-
-Masters Degree
-
-`July 2015 - July 2019`
-__Acharya Institute of Technology__
-
-Bachelors Degree
 
 
-## Work Experience
+### Sigsenz Technologies Pvt Ltd
+- Driver Registration Application  
+- Office Surveillance system
+- Driver Data Analytics
 
-`Aug 2020 - July 2021`
-__Data Science Engineer__, Aindra Labs Pvt Ltd 
-
-`Sept 2019 -  Aug 2020`
-__Embedded Software Developer__, Sigsenz Technologies Pvt Ltd 
-
-
-
-
-<!-- ### Footer
-
-Last updated: Dec 2021 -->
-
-
+### AindraLabs Pvt Ltd
+- Reverse Vending Machine 
+- Wood Log detection and Recognition system
+- People Analytics 
