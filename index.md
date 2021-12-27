@@ -38,7 +38,7 @@ AIndraLabs Pvt Ltd | Banglore, India <br/>
 Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
 
 
-## Projects ,Internships and Certifications:
+## Academic Projects ,Internships and Certifications:
 
 - Old Dominion University Internship program &nbsp;(2018)
 - Driver Drowsiness Detection  &nbsp;(2019)
