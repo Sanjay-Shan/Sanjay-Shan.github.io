@@ -20,13 +20,13 @@ Currently a graduate student at University of central Florida, working towards t
 
 | Languages     | Libraries     | Hardware | Tools |
 | ------------- | ------------- | --------- | ------------- |
-| C programming  | Pytorch  | Camera | Azure Cognito services |
-| C++  | Opencv  | arduino | Git |
-| Python | Keras | Jetson Nano | open Vino |
-| HTML | Pandas | Raspberry Pi | ROS 
-| CSS  | scikit-learn | ESP32  | Visual Studio 
-| PHP | Tensorflow | ESP8266  |   |
-|      |     | Analog Cams |   |
+| &nbsp;C programming  | &nbsp;Pytorch  | &nbsp;Camera | &nbsp;Azure Cognito services |
+| &nbsp;C++  | &nbsp;Opencv  | &nbsp;arduino | &nbsp;Git |
+| &nbsp;Python | &nbsp;Keras | &nbsp;Jetson Nano | &nbsp;open Vino |
+| &nbsp;HTML | &nbsp;Pandas | &nbsp;Raspberry Pi | &nbsp;ROS 
+| &nbsp;CSS  | &nbsp;scikit-learn | &nbsp;ESP32  | &nbsp;Visual Studio 
+| &nbsp;PHP | &nbsp;Tensorflow | &nbsp;ESP8266  |   |
+|      |     | &nbsp;Analog Cams |   |
 
 ## PROFESSIONAL EXPERIENCE
 
