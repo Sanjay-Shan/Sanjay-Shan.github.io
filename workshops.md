@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Company Projects
 excerpt: "Recent Workshops"
 ---
 
-## Company Projects 
 
 ### Sigsenz Technologies Pvt Ltd
 - Driver Registration Application  
