@@ -6,7 +6,7 @@ excerpt: "Recent Workshops"
 
 ## Company Projects 
 
-  ### Sigsenz Technologies Pvt Ltd
+### Sigsenz Technologies Pvt Ltd
 - Driver Registration Application  
 - Office Surveillance system
 - Driver Data Analytics
