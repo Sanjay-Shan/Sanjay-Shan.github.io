@@ -4,6 +4,14 @@ title: Workshops
 excerpt: "Recent Workshops"
 ---
 
-# Workshops I've Put Together
+## Company Projects 
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+  ### Sigsenz Technologies Pvt Ltd
+- Driver Registration Application  
+- Office Surveillance system
+- Driver Data Analytics
+
+### AindraLabs Pvt Ltd
+- Reverse Vending Machine 
+- Wood Log detection and Recognition system
+- People Analytics 
