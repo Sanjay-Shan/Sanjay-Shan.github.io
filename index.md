@@ -19,7 +19,7 @@ Currently a graduate student at University of central Florida, working towards t
 ## TECHNICAL SKILLS
 
 | Languages     | Libraries     | Hardware | Tools |
-| ------------- | ------------- | --------- | ------------- |
+| :---: | :---: | :---: | :---: |
 | &nbsp;C programming  | &nbsp;Pytorch  | &nbsp;Camera | &nbsp;Azure Cognito services |
 | &nbsp;C++  | &nbsp;Opencv  | &nbsp;arduino | &nbsp;Git |
 | &nbsp;Python | &nbsp;Keras | &nbsp;Jetson Nano | &nbsp;open Vino |
