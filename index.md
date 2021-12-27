@@ -3,7 +3,6 @@ layout: page
 excerpt: "About Me..."
 ---
 
-
 ## “By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.”  -- Eliezer Yudkowsky
 
 ## PROFESSIONAL SUMMARY
@@ -51,4 +50,5 @@ Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
 - Ebay 2021 University Machine Learning Competition  &nbsp;(2021)
 - Working on Video Segmentation for autonomous driving  &nbsp;(2021)
 - Working on Autonomous driving project (RTIS research lab) &nbsp;(2021)
+- Currently working on Generic adversarial Networks &nbsp;(2021)
 
