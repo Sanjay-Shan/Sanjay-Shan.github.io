@@ -1,5 +1,6 @@
 # Site wide configuration
-
+# Google Analytics
+google_analytics: G-72BPT68WKY
 title: Sanjay's WorkPlace
 locale: en_US
 logo: Logo2.png
