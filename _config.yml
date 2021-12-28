@@ -1,6 +1,5 @@
 # Site wide configuration
-# Google Analytics
-google_analytics: G-72BPT68WKY
+
 title: Sanjay's WorkPlace
 locale: en_US
 logo: Logo2.png
@@ -15,6 +14,7 @@ owner:
   github: Sanjay-Shan
   facebook: sanjay.shanbhag.940
   instagram: sanjayshaanbhag
+  google_analytics: G-72BPT68WKY
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
