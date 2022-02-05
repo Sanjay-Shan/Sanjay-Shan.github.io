@@ -33,7 +33,6 @@ Currently a graduate student at University of central Florida, working towards t
 I have a relevant 2 years of experience in the below mentioned Start-ups in India<br/>
 - Data Science Engineer 	 August 2020 – July 2021<br/>
 AIndraLabs Pvt Ltd | Banglore, India <br/>
-
 - Embedded Software Engineer 	September 2019 – August 2020<br/>
 Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
 
