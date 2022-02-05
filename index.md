@@ -50,5 +50,6 @@ Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
 - Ebay 2021 University Machine Learning Competition  &nbsp;(2021)
 - Working on Video Segmentation for autonomous driving  &nbsp;(2021)
 - Working on Autonomous driving project (RTIS research lab) &nbsp;(2021)
-- Currently working on Generic adversarial Networks &nbsp;(2021)
+- Generic adversarial Networks &nbsp;(2021)
+
 
