@@ -17,31 +17,30 @@ Currently a graduate student at University of central Florida, working towards t
         Acharya Institute of Technology | Bangalore, India | 8.01 GPA<br/>
  
 ## TECHNICAL SKILLS
+
 | Languages           | Technologies               | Frameworks         | 
 |:-------------------:|:--------------------------:|:------------------:|
-| &nbsp;C programming | &nbsp;Computer Vision      | &nbsp;Pytorch      
-| &nbsp;C++           | &nbsp;Deep learning        | &nbsp;Keras          | 
-| &nbsp;Python        | &nbsp;Image Processing     | &nbsp;TensorFlow   
-| &nbsp;HTML          | &nbsp;Machine learning     | &nbsp;Scikit-learn 
-| &nbsp;CSS           | &nbsp;CNN                  | &nbsp;Pandas          
-| &nbsp;PHP           | &nbsp;Embedded Systems     | &nbsp;OpenCV        
-|                     | &nbsp;ROS                  | &nbsp;ONNX         
-|                     | &nbsp;                     |                    
-|                     |                            |                    
-|                     |                            |                    
+| &nbsp;C programming | &nbsp;Computer Vision      | &nbsp;Pytorch      |
+| &nbsp;C++           | &nbsp;Deep learning        | &nbsp;Keras        |  
+| &nbsp;Python        | &nbsp;Image Processing     | &nbsp;TensorFlow   |
+| &nbsp;HTML          | &nbsp;Machine learning     | &nbsp;Scikit-learn |
+| &nbsp;CSS           | &nbsp;CNN                  | &nbsp;Pandas       |   
+| &nbsp;PHP           | &nbsp;Embedded Systems     | &nbsp;OpenCV       | 
+|                     | &nbsp;ROS                  | &nbsp;ONNX         | 
+|                     | &nbsp;                     |                    |
                                                                            
-| Tools & platforms            | Neural Network tools        | Hardware                      |  
-| :---------------------------:|:---------------------------:|:-----------------------------:|
-| &nbsp;Linux (ubuntu)        | &nbsp;Azure Cognito services| &nbsp;Analog and IP Camera    |
-| &nbsp;Git                   | &nbsp;Tensorboard           | &nbsp;Arduino                |
-| &nbsp;Windows               | &nbsp;Google Colab          | &nbsp;RaspberryPi             |
-| &nbsp;Visual Studio         |                             | &nbsp;Ensenso Stero cameras   |
-| &nbsp;Git (version control) |                             | &nbsp;Emika Franka            |
-| &nbsp;Postman(API Testing)  |                             | &nbsp;ESP32                   |
-| &nbsp;Open3d(Point cloud)   |                             | &nbsp;ESP8266                 |
-| &nbsp;Arduino IDE           |                             |                               |
-| &nbsp;Cloud Compare         |                             |                               |
-| &nbsp;Open3d                |                             |                               |
+| Tools & platforms            | Neural Network tools         | Hardware                   |  
+| :---------------------------:|:----------------------------:|:--------------------------:|
+| &nbsp;Linux (ubuntu)         | &nbsp;Azure Cognito services | &nbsp;Analog and IP Camera |
+| &nbsp;Git                    | &nbsp;Tensorboard            | &nbsp;Arduino              |
+| &nbsp;Windows                | &nbsp;Google Colab           | &nbsp;RaspberryPi          |
+| &nbsp;Visual Studio          |                              | &nbsp;Ensenso Stero cameras|
+| &nbsp;Git (version control)  |                              | &nbsp;Emika Franka         |
+| &nbsp;Postman(API Testing)   |                              | &nbsp;ESP32                |
+| &nbsp;Open3d(Point cloud)    |                              | &nbsp;ESP8266              |
+| &nbsp;Arduino IDE            |                              |                            |
+| &nbsp;Cloud Compare          |                              |                            |
+| &nbsp;Open3d                 |                              |                            |
 
 ## PROFESSIONAL EXPERIENCE                                                  
 
