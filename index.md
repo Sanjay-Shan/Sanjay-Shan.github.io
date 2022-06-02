@@ -7,7 +7,7 @@ excerpt: "About Me..."
 
 ## PROFESSIONAL SUMMARY
 
-Currently a graduate student at University of central Florida, working towards the advancement in computer vision and machine learning. Previously have worked as a Data scientist and a embedded software developer in the field of Computer vision, Onboard Vehicle Diagnostics, Deep Learning, Machine learning and Desktop App development. I have been working with deep learning models and also traditional image processing so as to get the best out of the computer vision models.
+Currently a graduate student at University of central Florida, working towards the advancement in computer vision and machine learning. Previously have worked as a Data scientist and a embedded software developer in the field of Computer vision, Onboard Vehicle Diagnostics, Deep Learning, Machine learning and Desktop App development. I have been working with deep learning models and also traditional image processing so as to get the best out of the computer vision models. I would like to call myself a fusion product of Electronics and Computer science
 
 ## EDUCATION
 
@@ -17,18 +17,20 @@ Currently a graduate student at University of central Florida, working towards t
         Acharya Institute of Technology | Bangalore, India | 8.01 GPA<br/>
  
 ## TECHNICAL SKILLS
-
-| Languages     | Libraries     | Hardware | Tools |
-| :---: | :---: | :---: | :---: |
-| &nbsp;C programming  | &nbsp;Pytorch  | &nbsp;Camera | &nbsp;Azure Cognito services |
-| &nbsp;C++  | &nbsp;Opencv  | &nbsp;arduino | &nbsp;Git |
-| &nbsp;Python | &nbsp;Keras | &nbsp;Jetson Nano | &nbsp;open Vino |
-| &nbsp;HTML | &nbsp;Pandas | &nbsp;Raspberry Pi | &nbsp;ROS 
-| &nbsp;CSS  | &nbsp;scikit-learn | &nbsp;ESP32  | &nbsp;Visual Studio 
-| &nbsp;PHP | &nbsp;Tensorflow | &nbsp;ESP8266  |   |
-|      |     | &nbsp;Analog Cams |   |
-
-## PROFESSIONAL EXPERIENCE
+| Languages           | Technologies               | Frameworks         |  Tools & platforms          | Neural Network tools        | Hardware |
+| &nbsp;C programming | &nbsp;Computer Vision      | &nbsp;Pytorch      | &nbsp;Linux (ubuntu)        | &nbsp;Azure Cognito services| &nbsp;Analog and IP Camera  
+| &nbsp;C++           | &nbsp;Deep learning        | &nbsp;Keras        | &nbsp;Git                   | &nbsp;Tensorboard           | &nbsp;Arduino 
+| &nbsp;Python        | &nbsp; Image Processing    | &nbsp;TensorFlow   | &nbsp;Windows               | &nbsp;Google Colab          | &nbsp;RaspberryPi 
+| &nbsp;HTML          | &nbsp; Machine learning    | &nbsp;Scikit-learn | &nbsp;Visual Studio                                       | &nbsp;Ensenso Stero cameras
+| &nbsp;CSS           | &nbsp; Machine learning    | &nbsp;Pandas       | &nbsp;Git (version control)                               | &nbsp;Emika Franka(Robotic Arm)   
+| &nbsp;PHP           | &nbsp;CNN |                | &nbsp;OpenCV       | &nbsp;postman (API Testing)                               | &nbsp;ESP32
+                      | &nbsp;Embedded Systems     | &nbsp;ONNX         | &nbsp;Open3d (Point cloud)                                | &nbsp;ESP8266
+                      | &nbsp; ROS                                      | &nbsp;Arduino IDE
+                                                                        | &nbsp;Cloud Compare  
+                                                                        | &nbsp;Open3d   
+                                                                           
+                        
+## PROFESSIONAL EXPERIENCE                                                  
 
 I have a relevant 2 years of experience in the below mentioned Start-ups in India<br/>
 - Data Science Engineer 	 August 2020 – July 2021<br/>
