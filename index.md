@@ -18,6 +18,7 @@ Currently a graduate student at University of central Florida, working towards t
  
 ## TECHNICAL SKILLS
 | Languages           | Technologies               | Frameworks         |  Tools & platforms          | Neural Network tools        | Hardware |
+|----|----|----|----|----|----|
 | &nbsp;C programming | &nbsp;Computer Vision      | &nbsp;Pytorch      | &nbsp;Linux (ubuntu)        | &nbsp;Azure Cognito services| &nbsp;Analog and IP Camera  
 | &nbsp;C++           | &nbsp;Deep learning        | &nbsp;Keras        | &nbsp;Git                   | &nbsp;Tensorboard           | &nbsp;Arduino 
 | &nbsp;Python        | &nbsp; Image Processing    | &nbsp;TensorFlow   | &nbsp;Windows               | &nbsp;Google Colab          | &nbsp;RaspberryPi 
