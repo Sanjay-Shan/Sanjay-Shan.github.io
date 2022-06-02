@@ -17,18 +17,18 @@ Currently a graduate student at University of central Florida, working towards t
         Acharya Institute of Technology | Bangalore, India | 8.01 GPA<br/>
  
 ## TECHNICAL SKILLS
-| Languages           | Technologies               | Frameworks         |  Tools & platforms          | Neural Network tools        | Hardware |
-|----|----|----|----|----|----|
-| &nbsp;C programming | &nbsp;Computer Vision      | &nbsp;Pytorch      | &nbsp;Linux (ubuntu)        | &nbsp;Azure Cognito services| &nbsp;Analog and IP Camera  
-| &nbsp;C++           | &nbsp;Deep learning        | &nbsp;Keras        | &nbsp;Git                   | &nbsp;Tensorboard           | &nbsp;Arduino 
-| &nbsp;Python        | &nbsp;Image Processing     | &nbsp;TensorFlow   | &nbsp;Windows               | &nbsp;Google Colab          | &nbsp;RaspberryPi 
-| &nbsp;HTML          | &nbsp;Machine learning     | &nbsp;Scikit-learn | &nbsp;Visual Studio         |                             | &nbsp;Ensenso Stero cameras
-| &nbsp;CSS           | &nbsp;CNN                  | &nbsp;Pandas       | &nbsp;Git (version control) |                             | &nbsp;Emika Franka(Robotic Arm)   
-| &nbsp;PHP           | &nbsp;Embedded Systems     | &nbsp;OpenCV       | &nbsp;Postman(API Testing)  |                             | &nbsp;ESP32
-|                     | &nbsp;ROS                  | &nbsp;ONNX         | &nbsp;Open3d(Point cloud)   |                             | &nbsp;ESP8266
-|                     | &nbsp;                     |                    | &nbsp;Arduino IDE           |                             |
-|                     |                            |                    | &nbsp;Cloud Compare         |                             |
-|                     |                            |                    | &nbsp;Open3d                |                             |
+| Languages           | Technologies               | Frameworks         |  Tools & platforms          | Neural Network tools        | Hardware                      |
+|:-------------------:|:--------------------------:|:------------------:|:---------------------------:|:---------------------------:|:-----------------------------:|
+| &nbsp;C programming | &nbsp;Computer Vision      | &nbsp;Pytorch      | &nbsp;Linux (ubuntu)        | &nbsp;Azure Cognito services| &nbsp;Analog and IP Camera    |
+| &nbsp;C++           | &nbsp;Deep learning        | &nbsp;Keras        | &nbsp;Git                   | &nbsp;Tensorboard           | &nbsp;Arduino                 | 
+| &nbsp;Python        | &nbsp;Image Processing     | &nbsp;TensorFlow   | &nbsp;Windows               | &nbsp;Google Colab          | &nbsp;RaspberryPi             |
+| &nbsp;HTML          | &nbsp;Machine learning     | &nbsp;Scikit-learn | &nbsp;Visual Studio         |                             | &nbsp;Ensenso Stero cameras   |
+| &nbsp;CSS           | &nbsp;CNN                  | &nbsp;Pandas       | &nbsp;Git (version control) |                             | &nbsp;Emika Franka            |   
+| &nbsp;PHP           | &nbsp;Embedded Systems     | &nbsp;OpenCV       | &nbsp;Postman(API Testing)  |                             | &nbsp;ESP32                   | 
+|                     | &nbsp;ROS                  | &nbsp;ONNX         | &nbsp;Open3d(Point cloud)   |                             | &nbsp;ESP8266                 |
+|                     | &nbsp;                     |                    | &nbsp;Arduino IDE           |                             |                               |
+|                     |                            |                    | &nbsp;Cloud Compare         |                             |                               |
+|                     |                            |                    | &nbsp;Open3d                |                             |                               |
                                                                            
                         
 ## PROFESSIONAL EXPERIENCE                                                  
