@@ -24,8 +24,8 @@ Currently a graduate student at University of central Florida, working towards t
 | &nbsp;Python        | &nbsp; Image Processing    | &nbsp;TensorFlow   | &nbsp;Windows               | &nbsp;Google Colab          | &nbsp;RaspberryPi 
 | &nbsp;HTML          | &nbsp; Machine learning    | &nbsp;Scikit-learn | &nbsp;Visual Studio         |                             | &nbsp;Ensenso Stero cameras
 | &nbsp;CSS           | &nbsp; Machine learning    | &nbsp;Pandas       | &nbsp;Git (version control) |                             | &nbsp;Emika Franka(Robotic Arm)   
-| &nbsp;PHP           | &nbsp;CNN |                | &nbsp;OpenCV       | &nbsp;postman (API Testing) |                             | &nbsp;ESP32
-|                     | &nbsp;Embedded Systems     | &nbsp;ONNX         | &nbsp;Open3d (Point cloud)  |                             | &nbsp;ESP8266
+| &nbsp;PHP           | &nbsp;CNN                  | &nbsp;OpenCV       | &nbsp;postman(API Testing)  |                             | &nbsp;ESP32
+|                     | &nbsp;Embedded Systems     | &nbsp;ONNX         | &nbsp;Open3d(Point cloud)   |                             | &nbsp;ESP8266
 |                     | &nbsp; ROS                 |                    | &nbsp;Arduino IDE           |                             |
 |                     |                            |                    | &nbsp;Cloud Compare         |                             |
 |                     |                            |                    | &nbsp;Open3d                |                             |
