@@ -54,15 +54,16 @@ Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
 ## Academic Projects ,Internships and Certifications:
 
 - Old Dominion University Internship program &nbsp;(2018)
-- Driver Drowsiness Detection  &nbsp;(2019)
+- Web Designing using HTML 5 and CSS &nbsp;(2018)
+- [Driver Drowsiness Detection](https://github.com/Sanjay-Shan/Drowsiness-detection-using-facial-landmark-master)  &nbsp;(2019)
 - Electronic testing and Development Pvt. Ltd  &nbsp;(2019)
-- Neural Networks and Deep Learning  &nbsp;(2020)
-- Improving Deep Neural Networks  &nbsp;(2020)
-- Structuring Machine Learning projects  &nbsp;(2020)
-- Introduction to Containers w/ Docker, Kubernetes, OpenShift  &nbsp;(2020)
-- Ebay 2021 University Machine Learning Competition  &nbsp;(2021)
-- Working on Video Segmentation for autonomous driving  &nbsp;(2021)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/RMQ7ZXWPR5YL)  &nbsp;(2020)
+- [Improving Deep Neural Networks](https://www.coursera.org/account/accomplishments/certificate/PFT4H348LUEF)  &nbsp;(2020)
+- [Structuring Machine Learning projects](https://www.coursera.org/account/accomplishments/certificate/A98LLQ66Z39K)  &nbsp;(2020)
+- [Introduction to Containers w/ Docker, Kubernetes, OpenShift](https://www.coursera.org/api/certificate.v1/pdf/PLR5J8FAXT8T)  &nbsp;(2020)
+- [Ebay 2021 University Machine Learning Competition](https://github.com/Sanjay-Shan/Machine_Learning)0  &nbsp;(2021)
+- [Working on Video Segmentation for autonomous driving](https://github.com/Sanjay-Shan/Video-Segmentation-for-autonomous-driving)  &nbsp;(2021)
 - Working on Autonomous driving project (RTIS research lab) &nbsp;(2021)
-- Generic adversarial Networks &nbsp;(2021)
+- [Generic adversarial Networks &nbsp;(2021)](https://coursera.org/share/1c034ad7328ac635212fc72817a7f2ab)
 
 
