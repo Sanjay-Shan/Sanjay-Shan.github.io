@@ -53,21 +53,21 @@ Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
 
 ## Academic Projects ,Internships and Certifications:
 
-- Old Dominion University Internship program &nbsp;(2018)
-- Web Designing using HTML 5 and CSS &nbsp;(2018)
-- Electronic testing and Development Pvt. Ltd  &nbsp;(2019)
+- Old Dominion University Internship program
+- Web Designing using HTML 5 and CSS
+- Electronic testing and Development Pvt. Ltd 
 - [Learning Linux Command Line](https://www.linkedin.com/learning/certificates/991eb775c59e06aefa59cafa772621bee0ed06d68f6d0ad4a4690de74eb92cb8?trk=share_certificate)
 - [NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/certificates/6d1a714526264256be5389b9bd99d02d/)
-- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/RMQ7ZXWPR5YL)  &nbsp;(2020)
-- [Improving Deep Neural Networks](https://www.coursera.org/account/accomplishments/certificate/PFT4H348LUEF)  &nbsp;(2020)
-- [Structuring Machine Learning projects](https://www.coursera.org/account/accomplishments/certificate/A98LLQ66Z39K)  &nbsp;(2020)
-- [Introduction to Containers w/ Docker, Kubernetes, OpenShift](https://www.coursera.org/api/certificate.v1/pdf/PLR5J8FAXT8T)  &nbsp;(2020)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/RMQ7ZXWPR5YL)
+- [Improving Deep Neural Networks](https://www.coursera.org/account/accomplishments/certificate/PFT4H348LUEF)
+- [Structuring Machine Learning projects](https://www.coursera.org/account/accomplishments/certificate/A98LLQ66Z39K)
+- [Introduction to Containers w/ Docker, Kubernetes, OpenShift](https://www.coursera.org/api/certificate.v1/pdf/PLR5J8FAXT8T)
 - [Generic adversarial Networks &nbsp;(2021)](https://coursera.org/share/1c034ad7328ac635212fc72817a7f2ab)
 - [Responsible Conduct of Research for Engineers](www.citiprogram.org/verify/?w8cfcbe98-5b51-4528-832a-7d1df802a060-49536969)
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/7L4JZ5BVGPCX)
 - [Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/B67ZQR44566K)
 - [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/certificate/9DUNTCCUTWVT)
 - [Essentials Linear Algebra for Data Science](https://coursera.org/share/8e1ed270ce06623ed29f4fb03771e0ec)
-- [AWS Cloud Practitioner Essentials]
+- [AWS Cloud Practitioner Essentials](https://github.com/Sanjay-Shan/Sanjay-Shan.github.io/blob/7ad5fc7c104c662449411a036d392e73f1d1c673/Certificates/certificate.pdf)
 - [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3)
 
