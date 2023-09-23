@@ -6,7 +6,7 @@ excerpt: "About Me..."
 
 ## PROFESSIONAL SUMMARY
 
-I'm passionate about reading tech blogs ,working towards the upliftment of my team. I would say I'm a team player and I take the responsibility when it comes to me and my work , doesn't matter what time of the day it is. I'm here on handshake eagerly  looking to join a group of enthusiastic and passionate people who work towards a common goal. I have a relevant 2 - 3 years of experience working in Computer vision and machine learning, but that doesn't stop me from exploring other fields , until recently I have been working on combination of robotics, 3D data analysis and Medical imaging. Coming from a electrical background and lately into Computer science , I would call myself a good blend  of software and engineering , making myself fit for diverse range of opportunities. Apart from the technical aspects , I'm a good listener as well as good a good at noticing things.
+I'm passionate about reading tech blogs ,working towards the upliftment of my team. I would say I'm a team player and I take the responsibility when it comes to me and my work , doesn't matter what time of the day it is. I'm here on handshake eagerly  looking to join a group of enthusiastic and passionate people who work towards a common goal. I have a relevant 3 years of experience working in Computer vision and machine learning, but that doesn't stop me from exploring other fields. Coming from a electrical background and lately into Computer science , I would call myself a good blend  of software and engineering , making myself fit for diverse range of opportunities. Apart from the technical aspects , I'm a good listener as well as good a good at noticing things.
 
 ## EDUCATION
 
@@ -41,12 +41,12 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 | &nbsp;Open3d                 |                              |                            |
 
 ## PROFESSIONAL EXPERIENCE                                                  
-DeukSpine Institute | Melbourne, FL, United States <br/>
-- AI Developer/ Specialist       July 2023 – Current<br/>
-AIndraLabs Pvt Ltd | Banglore, India <br/>
-- Data Science Engineer 	 August 2020 – July 2021<br/>
-Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
-- Embedded Software Engineer 	 September 2019 – August 2020<br/>
+- DeukSpine Institute | Melbourne, FL, United States <br/>
+AI Developer/ Specialist       July 2023 – Current<br/>
+- AIndraLabs Pvt Ltd | Banglore, India <br/>
+Data Science Engineer 	 August 2020 – July 2021<br/>
+- Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
+Embedded Software Engineer 	 September 2019 – August 2020<br/>
 
 
 ## Certifications:
