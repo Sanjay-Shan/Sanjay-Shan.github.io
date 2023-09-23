@@ -10,8 +10,8 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 
 ## EDUCATION
 
-- Master of Science in Computer Science 	August 2021 - Present<br/>
-        University of Central Florida | Orlando, FL | 3.75 GPA<br/>
+- Master of Science in Computer Science 	August 2021 - May 2023<br/>
+        University of Central Florida | Orlando, FL | 3.8 GPA<br/>
 - Bachelor’s in Electronics and Communication   July 2015 -  July 2019<br/>
         Acharya Institute of Technology | Bangalore, India | 8.01 GPA<br/>
  
@@ -26,14 +26,13 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 | &nbsp;CSS           | &nbsp;CNN                  | &nbsp;Pandas       |   
 | &nbsp;PHP           | &nbsp;Embedded Systems     | &nbsp;OpenCV       | 
 |                     | &nbsp;ROS                  | &nbsp;ONNX         | 
-|                     | &nbsp;                     |                    |
                                                                            
-| Tools & platforms            | Neural Network tools         | Hardware                   |  
+| Tools & platforms            | Cloud Based tools            | Hardware                   |  
 | :---------------------------:|:----------------------------:|:--------------------------:|
 | &nbsp;Linux (ubuntu)         | &nbsp;Azure Cognito services | &nbsp;Analog and IP Camera |
-| &nbsp;Git                    | &nbsp;Tensorboard            | &nbsp;Arduino              |
+| &nbsp;Git                    | &nbsp;Google Cloud           | &nbsp;Arduino              |
 | &nbsp;Windows                | &nbsp;Google Colab           | &nbsp;RaspberryPi          |
-| &nbsp;Visual Studio          |                              | &nbsp;Ensenso Stero cameras|
+| &nbsp;Visual Studio          | &nbsp;Google DialogFlow      | &nbsp;Ensenso Stero cameras|
 | &nbsp;Git (version control)  |                              | &nbsp;Emika Franka         |
 | &nbsp;Postman(API Testing)   |                              | &nbsp;ESP32                |
 | &nbsp;Open3d(Point cloud)    |                              | &nbsp;ESP8266              |
@@ -42,19 +41,18 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 | &nbsp;Open3d                 |                              |                            |
 
 ## PROFESSIONAL EXPERIENCE                                                  
-
-I have a relevant 2 years of experience in the below mentioned Start-ups in India<br/>
-- Data Science Engineer 	 August 2020 – July 2021<br/>
+DeukSpine Institute | Melbourne, FL, United States <br/>
+- AI Developer/ Specialist       July 2023 – Current<br/>
 AIndraLabs Pvt Ltd | Banglore, India <br/>
-- Embedded Software Engineer 	September 2019 – August 2020<br/>
+- Data Science Engineer 	 August 2020 – July 2021<br/>
 Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
+- Embedded Software Engineer 	 September 2019 – August 2020<br/>
 
 
-## Academic Projects ,Internships and Certifications:
-
-- Old Dominion University Internship program
-- Web Designing using HTML 5 and CSS
-- Electronic testing and Development Pvt. Ltd 
+## Certifications:
+- [Developing CI/CD Solutions with Azure Devops](https://www.linkedin.com/learning/certificates/18f4f9d5725c8f246a4e87b3163508470399493f09127394cb40703f903b9212)
+- [Learning R Programming](https://www.linkedin.com/learning/certificates/4c20405d9db2dd40bb6799ff51b35810ac6ba95478ed70a81f17144554b7fd17?trk=share_certificate)
+- [PowerBI Essential](https://www.linkedin.com/learning/certificates/28c4c194e1152610927e9c7003c60ade3d39816af2583c4b1e3db29702657721)
 - [Learning Linux Command Line](https://www.linkedin.com/learning/certificates/991eb775c59e06aefa59cafa772621bee0ed06d68f6d0ad4a4690de74eb92cb8?trk=share_certificate)
 - [NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/certificates/6d1a714526264256be5389b9bd99d02d/)
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/RMQ7ZXWPR5YL)
