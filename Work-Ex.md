@@ -4,8 +4,21 @@ title: Company Projects
 excerpt: "Recent Workshops"
 ---
 
+### AI Software Developer - DeukSpine Institute
+- Figure out the ways in which AI can be used to solve the issues faced by patients and improvise user experience.
+- Research and develop strategies to enhance business utilizing Generative AI, NLP and Data Science.
 
-### Sigsenz Technologies Pvt Ltd
+#### Projects:
+- Healthcare Chat Bot - Deuk Bot
+   - Currently training and creating the knowledge base for the chatbot using Google Dialog flow and Google cloud API's.
+   - Exploring migration factors and integration capabilites of Dialog Flow with various chat giants like ChatGPT , PaLM etc.
+   - Engineered a data pipeline to streamline comments from the YouTube channel and a assist in the development of Knowledge base for the chatbot.
+
+### Embedded Software Developer - Sigsenz Technologies Pvt Ltd
+- Was intially hired as an intern to work on the overall aspects of Edge IOT and AI.
+- Considered my work, was converted to Full-time to work on Fleet and Driver analytics Solution
+
+#### Projects:
 - Driver Registration Application  
    - Created a python based application for Driver Face Registration
    - Worked on face recognition using FACENET + UltraLight face detector
@@ -18,7 +31,9 @@ excerpt: "Recent Workshops"
    - Started with data annotation for the various real time images using Azure cognitive services
    - Trained multi-object detection which included Facial mask, mobile-usage, seatbelt and drowsiness detection.
 
-### AindraLabs Pvt Ltd
+### Data Scientist - AindraLabs Pvt Ltd
+
+#### Projects:
 - Reverse Vending Machine
    - Utilsed background subtraction methodology to detect the bottles on the moving conveyer belt.
    - Considered using Centroid tracker for the bottle tracking for robust results
