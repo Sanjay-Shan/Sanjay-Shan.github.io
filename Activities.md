@@ -29,7 +29,9 @@ Serving as a GTA for a undergraduate course "Introduction to Robotic's" at Compu
 
 ### Active member of IEEE SouthEast
 Active member and a participant of IEEE since August 2021
+
 ![Hardware Competition](https://github.com/Sanjay-Shan/Sanjay-Shan.github.io/blob/d32ef492b163fa03dccfb7ceeedeb6f7294ebaee/1653289663412.jpg) 
+
 #### Role
   - Attended various workshops conducted my IEEE on various topics of AI.
   - 
