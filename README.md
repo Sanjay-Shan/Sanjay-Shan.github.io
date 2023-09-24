@@ -6,3 +6,5 @@ By using this template you will have a website that is well designed, easy to ma
 
 ## [Getting Started Guide](https://ncsu-libraries.github.io/jekyll-academic-docs/)
 Complete documentation for getting started as well as advanced features of Jekyll Academic can be fount at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
+
+## [Markdown Guide](https://www.markdownguide.org/basic-syntax/#:~:text=To%20create%20a%20line%20break,spaces%2C%20and%20then%20type%20return.&text=This%20is%20the%20first%20line,this%20is%20the%20second%20line.) 

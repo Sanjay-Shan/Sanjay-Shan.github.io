@@ -49,14 +49,6 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 | &nbsp;Cloud Compare          |                              |                            |
 | &nbsp;Open3d                 |                              |                            |
 
-## PROFESSIONAL EXPERIENCE                                                  
-- DeukSpine Institute | Melbourne, FL, United States <br/>
-AI Developer/ Specialist       July 2023 – Current<br/>
-- AIndraLabs Pvt Ltd | Banglore, India <br/>
-Data Science Engineer 	 August 2020 – July 2021<br/>
-- Sigsenz Technologies Pvt Ltd | Bangalore, India<br/>
-Embedded Software Engineer 	 September 2019 – August 2020<br/>
-
 
 ## Certifications:
 - [Developing CI/CD Solutions with Azure Devops](https://www.linkedin.com/learning/certificates/18f4f9d5725c8f246a4e87b3163508470399493f09127394cb40703f903b9212)
@@ -75,10 +67,12 @@ Embedded Software Engineer 	 September 2019 – August 2020<br/>
 - [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/certificate/9DUNTCCUTWVT)
 - [Essentials Linear Algebra for Data Science](https://coursera.org/share/8e1ed270ce06623ed29f4fb03771e0ec)
 - [AWS Cloud Practitioner Essentials](https://github.com/Sanjay-Shan/Sanjay-Shan.github.io/blob/7ad5fc7c104c662449411a036d392e73f1d1c673/Certificates/certificate.pdf)
-- [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3) 
+- [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3)<br><br><br><br>
 
 
-<p style="text-align:center"> Contact Form </p>
+
+
+<p style="text-align:center"> <strong> Contact Form </strong> </p>
 <!-- Used https://formspree.io/forms/myyqnodz/plugins for the contact form -->
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
