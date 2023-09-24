@@ -7,14 +7,14 @@ excerpt: "Recent Workshops"
 ### Graduate Research Assistant - University of Central Florida
 As a research assistant, I got a chance to work on the .
 
-#### Role - Industrial Robotic Automation for Shot Peening Process
+### Role - Industrial Robotic Automation for Shot Peening Process
   - Setup a manufacturing environment within the lab using Vention iron Extrusions.
   - Extensively worked on the Industrial grade Franka Robot for the Pick N Drop of the Automotive Stab Bars.
   - Calibrated the depth cameras for enhanced visibility of the components in the Environment.
   - Designed an application for visualizing the estimated spline and the eye point of the StabBar using High Dimensional data.
   - Enhanced the dismantling and relocation process using detailed labelling of structure components and thorough documentation.
 
-#### Role - Data Incompleteness aspect of MRI 
+### Role - Data Incompleteness aspect of MRI 
   - Exploring the data incompleteness aspect of MRI images 
   - Performed Under sampling detection in the MRI Images using the Line detection algorithm
   - Performed motion analysis on the motion artefact contained MRI Images using Radon transform
@@ -30,14 +30,17 @@ Serving as a GTA for a undergraduate course "Introduction to Robotic's" at Compu
 ### Active member of IEEE SouthEast
 Active member and a participant of IEEE since August 2021
 
-![Hardware Competition](assets/1653289663412.jpg) 
+Hardware Competition             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="assets/1653289663412.jpg"  width="40%" height="40%"> |  <img src="assets/1681766583358.jpg"  width="40%" height="40%">
+
 
 #### Role
   - Attended various workshops conducted my IEEE on various topics of AI.
   - 
 
 ### Organizing member of UCFKAT (Knights Auto Team) - University of Central Florida
-#### Role
+### Role
  - Conducting workshops pertaining to Autonomous driving and spreading awareness about the trending AI applications.
  - Conducted workshops on python for robotics and Linux operating systems as kick start towards autonomous driving.
  
