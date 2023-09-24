@@ -69,12 +69,12 @@ Embedded Software Engineer 	 September 2019 – August 2020<br/>
 - [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3)
 
 <!-- Used https://formspree.io/forms/myyqnodz/plugins for the contact form -->
-<<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label> </br>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required=""> </br> </br>
     <label for="email-address">Email Address</label> </br>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required=""></br></br>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""></br></br>
     <label for="message">Message</label></br>
     <textarea rows="5" name="message" id="message" placeholder="Enter your Message here" required=""></textarea> </br>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
