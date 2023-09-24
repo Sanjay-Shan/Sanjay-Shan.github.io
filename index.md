@@ -4,7 +4,7 @@ excerpt: "About Me..."
 ---
 
 
-
+## PROFESSIONAL SUMMARY
 
 I'm passionate about reading tech blogs ,working towards the upliftment of my team. I would say I'm a team player and I take the responsibility when it comes to me and my work , doesn't matter what time of the day it is. I'm here on handshake eagerly  looking to join a group of enthusiastic and passionate people who work towards a common goal. I have a relevant 3 years of experience working in Computer vision and machine learning, but that doesn't stop me from exploring other fields. Coming from a electrical background and lately into Computer science , I would call myself a good blend  of software and engineering , making myself fit for diverse range of opportunities. Apart from the technical aspects , I'm a good listener as well as good a good at noticing things.
 
@@ -80,6 +80,7 @@ Embedded Software Engineer 	 September 2019 – August 2020<br/>
 
 <p style="text-align:center"> Contact Form </p>
 <!-- Used https://formspree.io/forms/myyqnodz/plugins for the contact form -->
+
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>

@@ -32,7 +32,6 @@ excerpt: "Recent Workshops"
          - Trained multi-object detection which included Facial mask, mobile-usage, seatbelt and drowsiness detection.
 
 ### Data Scientist - AindraLabs Pvt Ltd
-
 - Projects:
    - Reverse Vending Machine
       - Utilsed background subtraction methodology to detect the bottles on the moving conveyer belt.
