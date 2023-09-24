@@ -4,17 +4,26 @@ excerpt: "About Me..."
 ---
 
 
-## PROFESSIONAL SUMMARY
+
 
 I'm passionate about reading tech blogs ,working towards the upliftment of my team. I would say I'm a team player and I take the responsibility when it comes to me and my work , doesn't matter what time of the day it is. I'm here on handshake eagerly  looking to join a group of enthusiastic and passionate people who work towards a common goal. I have a relevant 3 years of experience working in Computer vision and machine learning, but that doesn't stop me from exploring other fields. Coming from a electrical background and lately into Computer science , I would call myself a good blend  of software and engineering , making myself fit for diverse range of opportunities. Apart from the technical aspects , I'm a good listener as well as good a good at noticing things.
 
 ## EDUCATION
 
-- Master of Science in Computer Science 	August 2021 - May 2023<br/>
-        University of Central Florida | Orlando, FL | 3.8 GPA<br/>
-- Bachelor’s in Electronics and Communication   July 2015 -  July 2019<br/>
-        Acharya Institute of Technology | Bangalore, India | 8.01 GPA<br/>
- 
+- **Degree:** Master of Science in Computer Science
+  - **University:** University of Central Florida
+  - **Location:** Orlando, FL
+  - **GPA:** 3.8
+  - **Start Date:** August 2021
+  - **End Date:** May 2023
+
+- **Degree:** Bachelor’s in Electronics and Communication
+  - **University:** Visveswaraya Technological University
+  - **Location:** Bengaluru, India
+  - **GPA:** 8.1
+  - **Start Date:** July 2015
+  - **End Date:** July 2019
+
 ## TECHNICAL SKILLS
 
 | Languages           | Technologies               | Frameworks         | 
