@@ -30,9 +30,9 @@ Serving as a GTA for a undergraduate course "Introduction to Robotic's" at Compu
 ### Active member of IEEE SouthEast
 Active member and a participant of IEEE since August 2021
 
-Hardware Competition             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="assets/1653289663412.jpg"  width="40%" height="40%"> |  <img src="assets/1681766583358.jpg"  width="40%" height="40%">
+Hardware Competition 2022            |  IEEE SouthEastCon 2023
+:-----------------------------------:|:-------------------------:
+![](assets/1653289663412.jpg) |  ![](assets/1681766583358.jpg)
 
 
 #### Role
