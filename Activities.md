@@ -5,7 +5,11 @@ excerpt: "Recent Workshops"
 ---
 
 ### Graduate Research Assistant - University of Central Florida
-As a research assistant, I got a chance to work on the .
+
+Initial Setup            |  Final Setup
+:-----------------------------------:|:-------------------------:
+![](assets/Images/IASetup2.jpg) |  ![](assets/Images/IASetup.jpg)
+
 
 ### Role - Industrial Robotic Automation for Shot Peening Process
   - Setup a manufacturing environment within the lab using Vention iron Extrusions.
@@ -32,7 +36,7 @@ Active member and a participant of IEEE since August 2021
 
 Hardware Competition 2022            |  IEEE SouthEastCon 2023
 :-----------------------------------:|:-------------------------:
-![](assets/1653289663412.jpg) |  ![](assets/1681766583358.jpg)
+![](assets/Images/IEEE2022.jpg) |  ![](assets/Images/IEEE2023.jpg)
 
 
 #### Role
