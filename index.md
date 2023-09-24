@@ -47,9 +47,10 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 | &nbsp;Open3d(Point cloud)    |                              | &nbsp;ESP8266              |
 | &nbsp;Arduino IDE            |                              |                            |
 | &nbsp;Cloud Compare          |                              |                            |
-| &nbsp;Open3d                 |                              |                            |
+| &nbsp;Open3d                 |                              |                            |    
+<br><br><br>
 
-<br><br>
+
 ## Certifications:
 - [Developing CI/CD Solutions with Azure Devops](https://www.linkedin.com/learning/certificates/18f4f9d5725c8f246a4e87b3163508470399493f09127394cb40703f903b9212)
 - [Learning R Programming](https://www.linkedin.com/learning/certificates/4c20405d9db2dd40bb6799ff51b35810ac6ba95478ed70a81f17144554b7fd17?trk=share_certificate)
