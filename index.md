@@ -68,10 +68,15 @@ Embedded Software Engineer 	 September 2019 – August 2020<br/>
 - [AWS Cloud Practitioner Essentials](https://github.com/Sanjay-Shan/Sanjay-Shan.github.io/blob/7ad5fc7c104c662449411a036d392e73f1d1c673/Certificates/certificate.pdf)
 - [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3)
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form action="https://formspree.io/f/myyqnodz" method="POST">
-        <label> Your email:<input type="email" name="email"> </label>
-        <label> Your message:<textarea name="message"> </textarea> </label>
-        <!-- your other form fields go here -->
-        <button type="submit">Send</button>
-</form>
+<!-- Used https://formspree.io/forms/myyqnodz/plugins for the contact form -->
+<<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label> </br>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required=""> </br> </br>
+    <label for="email-address">Email Address</label> </br>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required=""></br></br>
+    <label for="message">Message</label></br>
+    <textarea rows="5" name="message" id="message" placeholder="Enter your Message here" required=""></textarea> </br>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
