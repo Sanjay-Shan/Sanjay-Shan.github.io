@@ -66,17 +66,17 @@ Embedded Software Engineer 	 September 2019 – August 2020<br/>
 - [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/certificate/9DUNTCCUTWVT)
 - [Essentials Linear Algebra for Data Science](https://coursera.org/share/8e1ed270ce06623ed29f4fb03771e0ec)
 - [AWS Cloud Practitioner Essentials](https://github.com/Sanjay-Shan/Sanjay-Shan.github.io/blob/7ad5fc7c104c662449411a036d392e73f1d1c673/Certificates/certificate.pdf)
-- [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3)
+- [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3) </br></br>
 
 <!-- Used https://formspree.io/forms/myyqnodz/plugins for the contact form -->
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label> </br>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required=""> </br> </br>
-    <label for="email-address">Email Address</label> </br>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""></br></br>
-    <label for="message">Message</label></br>
-    <textarea rows="5" name="message" id="message" placeholder="Enter your Message here" required=""></textarea> </br>
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required=""> 
+    <label for="email-address">Email Address</label> 
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Enter your Message here" required=""></textarea> 
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
