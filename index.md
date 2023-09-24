@@ -6,7 +6,7 @@ excerpt: "About Me..."
 
 ## PROFESSIONAL SUMMARY
 
-I'm passionate about reading tech blogs ,working towards the upliftment of my team. I would say I'm a team player and I take the responsibility when it comes to me and my work , doesn't matter what time of the day it is. I'm here on handshake eagerly  looking to join a group of enthusiastic and passionate people who work towards a common goal. I have a relevant 3 years of experience working in Computer vision and machine learning, but that doesn't stop me from exploring other fields. Coming from a electrical background and lately into Computer science , I would call myself a good blend  of software and engineering , making myself fit for diverse range of opportunities. Apart from the technical aspects , I'm a good listener as well as good a good at noticing things.
+I'm passionate about reading tech blogs ,working towards the upliftment of my team. I would say I'm a team player and I take the responsibility when it comes to me and my work , doesn't matter what time of the day it is. I'm here on handshake eagerly  looking to join a group of enthusiastic and passionate people who work towards a common goal. I have a relevant 3 years of experience working in Computer vision and machine learning, but that doesn't stop me from exploring other fields. Coming from a electrical background and lately into Computer science , I would call myself a good blend  of software and engineering , making myself fit for diverse range of opportunities. Apart from the technical aspects , I'm a good listener as well as good a good at noticing things.<br><br>
 
 ## EDUCATION
 
@@ -22,7 +22,7 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
   - **Location:** Bengaluru, India
   - **GPA:** 8.1
   - **Start Date:** July 2015
-  - **End Date:** July 2019
+  - **End Date:** July 2019 <br><br>
 
 ## TECHNICAL SKILLS
 
@@ -49,7 +49,7 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 | &nbsp;Cloud Compare          |                              |                            |
 | &nbsp;Open3d                 |                              |                            |
 
-
+<br><br>
 ## Certifications:
 - [Developing CI/CD Solutions with Azure Devops](https://www.linkedin.com/learning/certificates/18f4f9d5725c8f246a4e87b3163508470399493f09127394cb40703f903b9212)
 - [Learning R Programming](https://www.linkedin.com/learning/certificates/4c20405d9db2dd40bb6799ff51b35810ac6ba95478ed70a81f17144554b7fd17?trk=share_certificate)
@@ -67,9 +67,7 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 - [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/certificate/9DUNTCCUTWVT)
 - [Essentials Linear Algebra for Data Science](https://coursera.org/share/8e1ed270ce06623ed29f4fb03771e0ec)
 - [AWS Cloud Practitioner Essentials](https://github.com/Sanjay-Shan/Sanjay-Shan.github.io/blob/7ad5fc7c104c662449411a036d392e73f1d1c673/Certificates/certificate.pdf)
-- [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3)<br><br><br><br>
-
-
+- [Attention to Detail](https://www.testdome.com/certificates/43e8396c18174d128739238d6245bfa3)<br><br><br><br><br><br><br>
 
 
 <p style="text-align:center"> <strong> Contact Form </strong> </p>
