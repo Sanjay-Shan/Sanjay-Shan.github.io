@@ -48,7 +48,6 @@ I'm passionate about reading tech blogs ,working towards the upliftment of my te
 | &nbsp;Arduino IDE            |                              |                            |
 | &nbsp;Cloud Compare          |                              |                            |
 | &nbsp;Open3d                 |                              |                            |    
-<br><br><br>
 
 
 ## Certifications:
